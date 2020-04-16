@@ -19,7 +19,6 @@
             "homepage": "https://github.com/krzaczek"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.0",
         "guzzlehttp/guzzle": "~6.0"
